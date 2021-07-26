@@ -4,7 +4,6 @@ In this repository I will store all my solutions for [Harvard CS50 course](https
 
 **Course progress**:
 
-- [x] Week 0 Scratch  
 - [x] Week 1 C  
 - [ ] Week 2 Arrays  
 - [ ] Week 3 Algorithms  
