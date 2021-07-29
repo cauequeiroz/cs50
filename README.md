@@ -6,6 +6,6 @@ In this repository I will store all my solutions for [Harvard CS50 course](https
 
 - [x] Week 1 C  
 - [x] Week 2 Arrays  
-- [ ] Week 3 Algorithms  
+- [x] Week 3 Algorithms  
 - [ ] Week 4 Memory  
 - [ ] Week 5 Data Structures
